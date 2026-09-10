@@ -1,7 +1,0 @@
-{
-  "rewrites": [
-    { "source": "/", "destination": "/index.html" },
-    { "source": "/guest", "destination": "/index.html" },
-    { "source": "/guest/:path*", "destination": "/index.html" }
-  ]
-}
